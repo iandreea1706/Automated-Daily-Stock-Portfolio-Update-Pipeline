@@ -1,4 +1,3 @@
-# Automated-Daily-Stock-Portfolio-Update-Pipeline
 # Automated Daily Stock Portfolio Update Pipeline
 
 ## Author
